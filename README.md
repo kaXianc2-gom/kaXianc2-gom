@@ -2,36 +2,40 @@
 
 # KA XIAN · 卡先
 
+```text
+ ╦╔═ ╔═╗ ╦ ╦╦╔═╗ ╔╗╔  ·  L O C A L - F I R S T   C R A F T S M A N
+ ╠╩╗ ╠═╣ ╚╦╝║╠═╣ ║║║  ·  P R I V A C Y   S O V E R E I G N T Y
+ ╩ ╩ ╩ ╩  ╩ ╩╩ ╩ ╝╚╝  ·  E M P I R I C A L   R E A L I S M
+```
+
 <p align="center">
-  <b>「 让数据为人服务，而非让人沦为数据的燃料 」</b><br>
-  <i>Empowering humans through tools, not commodifying humans through data.</i>
+  <b>"Software should be a quiet, loyal tool in your hands — not an interrogation room in someone else's cloud."</b>
 </p>
 
 <p align="center">
-  <code>Local-First Builder</code> · 
-  <code>Privacy Sovereign</code> · 
-  <code>Empirical Realist</code> · 
-  <code>Open-Source Craftsman</code>
+  <img src="https://img.shields.io/badge/ETHOS-Local--First-black?style=flat-square" alt="Local-First">
+  <img src="https://img.shields.io/badge/TELEMETRY-0%25%20Absolute%20Zero-black?style=flat-square" alt="Zero Telemetry">
+  <img src="https://img.shields.io/badge/SURVEILLANCE-Refused-black?style=flat-square" alt="Surveillance Refused">
+  <img src="https://img.shields.io/badge/SOURCE-Public%20%26%20Verifiable-black?style=flat-square" alt="Public & Verifiable">
 </p>
-
-<br>
 
 </div>
 
 ---
 
-### 🪵 真实底色 / The Philosophy
+### 🪵 The Baseline: Who I Am & Why I Build
 
-我是一名**非科班出身的独立构建者**。不信奉学院派的教条八股，不追求为了堆砌简历而虚构的繁冗架构。
+I am an **independent, self-taught builder** who arrived at software outside the standard computer science conveyor belt. 
 
-我写代码的逻辑极其简单：
-* **工具应当沉默、忠诚且锋利**：像一把趁手的物理工具，开箱即用，不强绑账号，不在用户背后窃窃私语。
-* **数据主权归于本地 (Local Sovereignty)**：在这个监控资本主义泛滥、万物皆想上云吞噬用户数据的时代，我坚定站在 **Local-First** 这一侧——**100% 离线可用，零服务器依赖，数据不离本地**。
-* **激进的诚实与公开 (Radical Transparency)**：反对包装假大空的概念。代码怎样就怎样，能做到什么就说什么，以可验证的真实为最高准则。
+My thinking is rooted in **humanities, regional socioeconomic structures, and empirical reality**. Because of that background, I look at technology through a very different lens than the venture-backed mainstream:
+
+* **Tools should respect human dignity.** A hammer doesn't require a login; a pen doesn't send telemetry back to its manufacturer every time you write a sentence. Software should behave with the same quiet decency.
+* **Data sovereignty belongs on your hardware.** In an era saturated with surveillance capitalism—where every utility demands your phone number, logs your behavior, and rents you back access to your own thoughts—I build strictly on the **Local-First** frontier: **100% offline-capable, zero mandatory servers, zero data leakage.**
+* **Radical honesty over corporate theater.** No buzzword bingo, no resume-driven bloated architectures, no fake performance metrics. If code works, it speaks for itself in plain sight.
 
 ---
 
-### 🛡️ 代表作品 / Featured Artifact
+### 🛡️ Flagship Artifact
 
 <table>
   <tr>
@@ -39,19 +43,19 @@
       <h3>
         <a href="https://github.com/kaXianc2-gom/data-veil">DataVeil · 数据帷幕</a>
         &nbsp;
-        <img src="https://img.shields.io/badge/Local--Only-100%25-success?style=flat-square" alt="Local-Only">
-        <img src="https://img.shields.io/badge/Zero--Server-True-blue?style=flat-square" alt="Zero-Server">
+        <img src="https://img.shields.io/badge/Runtime-In--Browser-blue?style=flat-square" alt="In-Browser">
+        <img src="https://img.shields.io/badge/Servers-None-success?style=flat-square" alt="Zero Servers">
         <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square" alt="MIT">
       </h3>
-      <p><b>🛡️ 隐私优先的浏览器端 PII 敏感数据脱敏工具</b></p>
-      <p><i>「不把数据交给未知云端的脱敏，才是真正的安全脱敏。」</i></p>
+      <p><b>🛡️ Privacy-First, Zero-Server Client-Side PII Sanitizer</b></p>
+      <p><i>"Sanitizing sensitive records by transmitting them to an unknown remote server isn't privacy — it's surveillance with clever branding."</i></p>
       <ul>
-        <li><b>单 HTML 架构</b>：零构建依赖、零后端，双击即可在任何离线隔离环境中运行。</li>
-        <li><b>严谨算法校验</b>：集成 GB 11643 身份证校验码算法、银行卡 Luhn 算法、手机号/邮箱自适应掩码。</li>
-        <li><b>无障碍与细节</b>：全键盘焦点导航 (<code>focus-visible</code>)、动画减弱支持 (<code>prefers-reduced-motion</code>) 与打印优化。</li>
+        <li><b>Single-File Architecture</b>: Pure HTML/CSS/JS with zero build steps or runtime lock-in. Runs inside air-gapped, offline security perimeters out of the box.</li>
+        <li><b>Rigorous Algorithmic Verification</b>: Real-time checksum calculations via Chinese National Standard GB 11643 (National ID check digits) and the Luhn algorithm for bank cards, paired with adaptive column-header heuristic detection.</li>
+        <li><b>Accessible & Polished</b>: Built with deliberate keyboard navigation (<code>focus-visible</code>), vestibular motion safety (<code>prefers-reduced-motion</code>), and clean print stylesheet stylesheets.</li>
       </ul>
       <p>
-        🔗 <a href="https://github.com/kaXianc2-gom/data-veil"><b>查看源码 (GitHub Repo)</b></a>
+        👉 <a href="https://github.com/kaXianc2-gom/data-veil"><b>Explore the Repository & Source Code →</b></a>
       </p>
     </td>
   </tr>
@@ -59,31 +63,31 @@
 
 ---
 
-### 📐 工程戒律 / Architectural Creed
+### 📐 Rules of Engagement (What I Will & Won't Do)
 
 ```
-┌────────────────────────────────────────────────────────┐
-│  1. ZERO TELEMETRY  :: 绝不植入任何统计追踪与分析埋点  │
-│  2. CLIENT RUNTIME  :: 算力属于终端，数据属于用户自己  │
-│  3. NO BLOATWARE    :: 拒绝虚浮臃肿，保持极简可维护性  │
-│  4. VERIFIABLE CODE :: 每一行逻辑都经得起公开检验审查  │
-└────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│  1. ZERO TELEMETRY     :: No trackers, no session replays, no beacons. │
+│  2. LOCAL COMPUTATION  :: If client hardware can compute it, keep it.  │
+│  3. ZERO BLOAT         :: Never use 100MB of bloat when 30KB suffices. │
+│  4. VERIFIABLE HONESTY :: Transparent claims. If it breaks, own it.    │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 🔭 正在探索 / Currently Exploring
+### 🔭 The Active Lab (What I'm Exploring Now)
 
-* 🌐 **系统底层通信与网络主权**：研究低内存消耗的守护架构、TUN 虚拟网卡状态控制与无感自愈机制。
-* 📊 **经验现实与实证数据**：关注现实世界中人口、劳动与区域经济的面板数据规律，用数据还原真实，而非用数据粉饰幻觉。
-* 🧱 **纯本地架构进阶**：探索在零后端前提下，如何利用现代 Web 平台原生能力解决更复杂的工程痛点。
+* 🌐 **Sovereign Systems & Low-Footprint Networking**: Investigating memory-bounded system daemons, graceful TUN/TAP virtual network adapter lifecycle orchestration, and anti-hang watchdog recovery patterns.
+* 📊 **Empirical Realities & Regional Economics**: Interrogating real-world provincial labor, compensation, and panel datasets—using data to uncover empirical truth rather than to construct illusions.
+* 🧩 **Zero-Backend Paradigms**: Pushing the boundaries of what modern client-side browser runtimes, WebAssembly, and local storage primitives can accomplish without a single remote microservice.
 
 ---
 
 <div align="center">
-  <sub>信仰公开透明 · 信仰代码自治 · 永远为真实的人制造工具</sub>
-  <br><br>
+  <p><i>Faith in transparency. Faith in code autonomy. Building tools for sovereign human beings.</i></p>
+  
   <a href="https://github.com/kaXianc2-gom">
-    <img src="https://img.shields.io/badge/GitHub-@kaXianc2--gom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-kaXianc2--gom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
